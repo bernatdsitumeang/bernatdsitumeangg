@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bernatd Situmeang</h1>
 <h3 align="center">A passionate Back-end and Cloud Enthusiast from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bernatdsitumeang&label=Profile%20views&color=0e75b6&style=flat" alt="bernatdsitumeang" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bernatdsitumeang" alt="bernatdsitumeang" /></a> </p>
-
 - 🔭 I’m currently working on [Nawara](https://drive.google.com/file/d/1kiG2Hky6efo3UjkuiDiTZ8mYhx2pGTZr/view?usp=sharing)
 
 - 🌱 I’m currently learning **Information System Universitas Bengkulu**
